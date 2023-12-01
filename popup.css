@@ -1,0 +1,54 @@
+body {
+    width: 300px;
+    padding: 10px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .extension-title {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  a {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #333;
+    transition: background-color 0.3s;
+    font-size: 14px;
+  }
+  
+  a:hover {
+    background-color: #f0f0f0;
+  }
+  
+  img {
+    width: 16px;
+    height: 16px;
+    margin-right: 8px;
+  }
+  
+  .close-icon {
+    margin-left: auto;
+    cursor: pointer;
+  }
+  
